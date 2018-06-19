@@ -3,3 +3,4 @@ def sum_two(num)
 	num 
 	
 end
+  puts sum_two(num)
